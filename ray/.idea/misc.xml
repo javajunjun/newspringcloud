@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/../../goo/ray/pom.xml" />
         <option value="$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml" />
+        <option value="$PROJECT_DIR$/../../goo/ray/gg-admin-web/pom.xml" />
       </list>
     </option>
   </component>

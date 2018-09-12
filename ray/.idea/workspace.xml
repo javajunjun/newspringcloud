@@ -5,6 +5,8 @@
     <ignored path="$PROJECT_DIR$/../../goo/ray/out/" />
     <ignored path="$PROJECT_DIR$/../../goo/ray/target/" />
     <ignored path="$PROJECT_DIR$/../../goo/ray/service-cilent/target/" />
+    <ignored path="$PROJECT_DIR$/../../goo/ray/web/target/" />
+    <ignored path="$PROJECT_DIR$/../../goo/ray/gg-admin-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,40 +15,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../goo/ray/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceCilentApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/java/com/gegoo/servicecilent/ServiceCilentApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/pom.xml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="ServiceCilentApplication.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/java/com/gegoo/servicecilent/ServiceCilentApplication.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="92">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="79" selection-start-line="79" selection-end-line="79" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/resources/application.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="253">
+                  <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GgAdminWebApplication.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/GgAdminWebApplication.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="92">
+                  <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/web/LoginController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="138">
+                  <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#238#239#0" expanded="true" />
+                    <element signature="e#263#264#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-10">
+                  <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/resources/application.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="23">
+                  <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="166">
+                  <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,6 +125,10 @@
         <option value="$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml" />
         <option value="$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/java/com/gegoo/servicecilent/ServiceCilentApplication.java" />
         <option value="$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../../goo/ray/gg-admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/GgAdminWebApplication.java" />
+        <option value="$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/web/LoginController.java" />
       </list>
     </option>
   </component>
@@ -67,14 +141,18 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-39" />
-    <option name="y" value="97" />
-    <option name="width" value="1818" />
-    <option name="height" value="936" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-17" />
+    <option name="y" value="120" />
+    <option name="width" value="1932" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -89,42 +167,52 @@
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servicecilent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ggadminweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ray" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ggadminweb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ray" type="462c0819:PsiDirectoryNode" />
+              <item name="gg-admin-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -132,13 +220,7 @@
             <path>
               <item name="ray" type="b2602c69:ProjectViewProjectNode" />
               <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ray" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="service-cilent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,6 +237,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../home/jujube-dubbo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -170,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.GgAdminWebApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -190,9 +273,17 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="GgAdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gg-admin-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gegoo.ggadminweb.GgAdminWebApplication" />
+    </configuration>
     <configuration name="ServiceCilentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-cilent" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gegoo.servicecilent.ServiceCilentApplication" />
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gegoo-admin-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gegoo.web.WebApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -216,6 +307,11 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceCilentApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.GgAdminWebApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -227,15 +323,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536720483848</updated>
-      <workItem from="1536720488938" duration="2139000" />
+      <workItem from="1536720488938" duration="9009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2139000" />
+    <option name="totallyTimeSpent" value="9009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-39" y="97" width="1818" height="936" extended-state="1" />
+    <frame x="38" y="41" width="1818" height="936" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -250,16 +346,16 @@
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32957393" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48997495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4423559" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24971558" />
+      <window_info content_ui="combo" x="1112" y="243" width="439" height="603" id="Project" order="0" visible="true" weight="0.24971558" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -282,13 +378,6 @@
     <entry file="file://$PROJECT_DIR$/../../goo/ray/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/java/com/gegoo/servicecilent/ServiceCilentApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -296,10 +385,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/service-cilent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/GgAdminWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../goo/ray/gg-admin-web/src/main/java/com/gegoo/ggadminweb/web/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

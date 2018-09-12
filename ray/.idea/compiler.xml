@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gg-admin-web" />
         <module name="ray" />
         <module name="service-cilent" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gegoo-admin-web" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
